@@ -1,0 +1,11 @@
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.csproj.AssemblyReference.cache
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.csproj.SuggestedBindingRedirects.cache
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.Frm_ObtendoMacAdress.resources
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.Properties.Resources.resources
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.csproj.GenerateResource.cache
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.csproj.CoreCompileInputs.cache
+D:\work\MacAdress\MacAdress\bin\Debug\MacAdress.exe.config
+D:\work\MacAdress\MacAdress\bin\Debug\MacAdress.exe
+D:\work\MacAdress\MacAdress\bin\Debug\MacAdress.pdb
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.exe
+D:\work\MacAdress\MacAdress\obj\Debug\MacAdress.pdb
